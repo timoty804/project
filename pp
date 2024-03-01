@@ -40,7 +40,7 @@ make install
 ----------------------------------------------------------------------------
 git clone https://github.com/celestiaorg/networks
 
--------------------------------
+---------------------------------------------
 cd $HOME
 rm -rf networks
 git clone https://github.com/celestiaorg/networks.git
