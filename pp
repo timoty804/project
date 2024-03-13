@@ -5,10 +5,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/timoty804/project.git
 git push -u origin main
-
 for github
 //
-
+//
 ------------------------------------------------------------------------------------------------------
 sudo apt update && sudo apt upgrade -y
 -------------------------------------------------------------------------------------
