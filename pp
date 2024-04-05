@@ -44,8 +44,7 @@ CELESTIA_NODENAME="MY_NODE"
 CELESTIA_WALLET="MY_WALLET"
 CELESTIA_CHAIN="mamaki"
 
- کوم) و اطلاعات خودتون رو قرار بدید
-به عنوان مثال :
+
 
 CELESTIA_NODENAME="amir" 
 CELESTIA_WALLET="amir8372"
