@@ -1,7 +1,6 @@
 ----
 
 
-
 s
 echo "# project" >> README.md
 git init
